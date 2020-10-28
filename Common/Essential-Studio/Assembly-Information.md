@@ -9,6 +9,8 @@ documentation: ug
 
 # Assembly Information
 
+testing changes 
+
 ## Assembly Description
 
 Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate installer for Paying (Licensed installer) and Evaluation (Trial installer) customers. In the trial installer, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR)**.
