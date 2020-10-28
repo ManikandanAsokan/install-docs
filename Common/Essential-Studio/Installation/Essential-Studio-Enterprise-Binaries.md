@@ -9,6 +9,8 @@ documentation: ug
 
 # Essential Studio Enterprise - Binaries
 
+Testing changes added
+
 
 Syncfusion provides the Essential Studio - Binaries installer to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
 
