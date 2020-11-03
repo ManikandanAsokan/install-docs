@@ -6,7 +6,6 @@ platform: common
 control: Essential Studio
 documentation: ug
 ---
-Test chnages added
 # Essential Studio Mac Installer
 
 ## Overview
