@@ -6,7 +6,7 @@ platform: common
 control: Essential Studio
 documentation: ug
 ---
-
+Testing chnages added
 # Assembly Information
 
 ## Assembly Description
